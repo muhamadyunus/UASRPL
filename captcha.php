@@ -14,4 +14,4 @@ imagepng($captcha_image);
 imagedestroy($captcha_image);
 ?>
 
-//baru
+//edit
