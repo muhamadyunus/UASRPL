@@ -13,3 +13,5 @@ imagestring($captcha_image,$captcha_font,15,5,$captcha_text,$captcha_color);
 imagepng($captcha_image);
 imagedestroy($captcha_image);
 ?>
+
+//mod
